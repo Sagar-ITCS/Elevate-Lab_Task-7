@@ -59,8 +59,10 @@ These behaviors are consistent with the *RedDirection* campaign and Firefox wall
 ---
 
 ## References
-[^1]: [Koi Security (2025)](https://www.koi.security/blog/google-and-microsoft-trusted-them-2-3-million-users-installed-them-they-were-malware): *RedDirection Browser Extension Campaign*. [Report]  
-[^2]: [Malwarebytes Labs (2025)](https://www.malwarebytes.com/blog/news/2025/07/millions-of-people-spied-on-by-malicious-browser-extensions-in-chrome-and-edge): *Millions of people spied on by malicious browser extensions in Chrome and Edge*.  
-[^3]: [BleepingComputer (2025)](https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/): *Malicious Chrome extensions with 1.7M installs found on Web Store*.  
+[^1]: [Koi Security (2025)](https://www.koi.security/blog/google-and-microsoft-trusted-them-2-3-million-users-installed-them-they-were-malware): *RedDirection Browser Extension Campaign*. [Report]
+
+[^2]: [Malwarebytes Labs (2025)](https://www.malwarebytes.com/blog/news/2025/07/millions-of-people-spied-on-by-malicious-browser-extensions-in-chrome-and-edge): *Millions of people spied on by malicious browser extensions in Chrome and Edge*.
+
+[^3]: [BleepingComputer (2025)](https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/): *Malicious Chrome extensions with 1.7M installs found on Web Store*.
 
 ---
